@@ -2,6 +2,4 @@
 members = [
   "chain",
   "eosio-core-derive",
-  "rpc",
-  "rpc/rpc_codegen",
 ]
